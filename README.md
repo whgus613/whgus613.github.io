@@ -1,17 +1,16 @@
 ---
-title: "자기소개서"
+title: "About"
 permalink: "/about/"
 layout: page
 ---
 
-# 자기소개서   
 
 ### 1. 소개
 - 조현지
 - 2001.06.13
 - 컴퓨터공학전공 3학년
-- whgus613@naver.com
-# 
+- whgus613@naver.com  
+
 
 ### 2. 프로그래밍 언어
 - C++
@@ -19,16 +18,16 @@ layout: page
 - Java
 - React Native
 - HTML
-- CSS
-# 
+- CSS  
+
 
 
 ### 3. 관련 이력
 - 2020.08 코딩지도사 자격증 취득
 - 2021.07 제주테크노파크 빅데이터분석센터 인턴
 - 2021.10 2021 WISET-SGRC 동상 수상  
-- 2022.02 IJCC 2022, 'Development of React web app for smart tourism service' 논문 발표
-# 
+- 2022.02 IJCC 2022, 'Development of React web app for smart tourism service' 논문 발표  
+
 
 ### 4. 관심 저장소
 - React Native
@@ -38,5 +37,5 @@ layout: page
 - SOM-DST
   - https://github.com/whgus613/som-dst
   - Naver의 Clova AI에서 제안한 언어모델
-  - 자연어 분석에 관심이 있어서 선택함
-#
+  - 자연어 분석에 관심이 있어서 선택함  
+  
