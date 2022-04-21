@@ -1,5 +1,5 @@
 ---
-title:  "In Arte Museum"
+title:  "Arte Museum"
 mathjax: true
 layout: post
 categories: media
