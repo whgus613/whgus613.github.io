@@ -1,8 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "현지’s Blog"
+author: "조현지"
+description: "현지’s Blog"
 permalink: /:title/
-lang: "en"
+lang: "ko"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
