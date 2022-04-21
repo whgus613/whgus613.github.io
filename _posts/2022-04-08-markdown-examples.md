@@ -1,85 +1,26 @@
 ---
-title:  "Markdown examples"
+title:  "오픈소스 개발자로 성장하는 방법"
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
+오픈소스 커뮤니티 활동을 통해서 개발자에게 필요한 여섯 가지 능력을 기를 수 있다.
 
+- 기능 개발 능력
+- 유지보수 능력
+- 소프트웨어 테스팅
+- 커뮤니케이션
+- 코드분석
+- 영어
 
-## Heading Two (h2)
+오픈소스 커뮤니티에서 활동하며 프로젝트에 기여하는 가장 간단한 방법은 관심있는 프로젝트의 코드부터 확인하는 것이다. 프로젝트의 코드를 살펴보면 프로젝트의 흐름과 코드 베이스, 오픈소스 커뮤니티 문화에 대해 익숙해질 수 있다. 운이 좋으면 기여자들이 미처 찾지 못한 오타를 발견해 첫 기여를 하게 될 수도 있다.
 
-### Heading Three (h3)
+그러나 오타 발견 이상의 기여를 하기 위해서는 프로젝트의 구조와 동작, 추상화 수준에 대해 알아야 한다. 이를 파악하기 위해 다음의 단계를 거치면 좋다.
 
-#### Heading Four (h4)
-
-##### Heading Five (h5)
-
-###### Heading Six (h6)
-
-
-## Blockquotes
-
-### Single line
-
-> My mom always said life was like a box of chocolates. You never know what you're gonna get.
-
-### Multiline
-
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
->
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
->
-> – _Hal Incandenza_
-
-## Horizontal Rule
-
----
-
-## Table
-
-| Title 1          | Title 2          | Title 3         | Title 4         |
-|------------------|------------------|-----------------|-----------------|
-| First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
-| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
-| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
-
-## Code
-
-Source code can be included by fencing the code with three backticks. Syntax highlighting works automatically when specifying the language after the backticks.
-
-````
-```javascript
-function foo () {
-    return "bar";
-}
-```
-````
-
-This would be rendered as:
-
-```javascript
-function foo () {
-    return "bar";
-}
-```
-
-## Lists
-
-### Unordered
-
-* First item
-* Second item
-* Third item
-    * First nested item
-    * Second nested item
-
-### Ordered
-
-1. First item
-2. Second item
-3. Third item
-    1. First nested item
-    2. Second nested item
+- 프로젝트 논문 읽기
+- 아키텍처 문서와 이미지 확인하기
+- 자주 사용하는 기능의 API 코드 보기
+- 오류 발견 시 이슈 작성하고 고치기
+- 성능 최적화할 부분(API, function) 찾고 최적화하기
+- 추가되었으면 하는 기능이 있다면 기능 이슈 작성하고 구현하기
+- 지저분한 코드는 다양한 방법으로 리팩토링하기
