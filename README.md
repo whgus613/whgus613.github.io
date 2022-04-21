@@ -27,6 +27,7 @@ layout: page
 - 2021.07 제주테크노파크 빅데이터분석센터 인턴
 - 2021.10 2021 WISET-SGRC 동상 수상  
 - 2022.02 IJCC 2022, 'Development of React web app for smart tourism service' 논문 발표  
+- 2022.07 Southern Utah University 교육 참여(예정)
 
 
 ### 4. 관심 저장소
@@ -38,4 +39,3 @@ layout: page
   - https://github.com/whgus613/som-dst
   - Naver의 Clova AI에서 제안한 언어모델
   - 자연어 분석에 관심이 있어서 선택함  
-  
